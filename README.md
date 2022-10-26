@@ -62,3 +62,8 @@ Use the left mouse button or "1", "2", and "3" keys to answer the quiz.
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198026671-d408f807-7e1f-4a5a-b533-2b12b81c32e3.png">
   <br>
 </div>
+
+<h3 align="center">RECORD GAMEPLAY</h3>
+<div align="center">
+  https://user-images.githubusercontent.com/65392617/198096550-213c4f60-1ffe-4a2a-b078-3f51a5181eed.mp4
+</div>
