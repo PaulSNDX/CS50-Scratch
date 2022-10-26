@@ -9,8 +9,10 @@
 <img width="49%" src="https://user-images.githubusercontent.com/65392617/198009303-3a8c4fbe-b648-4044-8604-3038846f52cc.png">
 
 <h3>Game modes</h3>
-<img width="49%" src="https://user-images.githubusercontent.com/65392617/198009381-a7ed609c-619c-44a3-a884-3b2873f8b300.png">
-<img width="49%" src="https://user-images.githubusercontent.com/65392617/198009609-a68f9d4b-1f01-48ff-b7ba-c4a29f5d28c2.png">
+<div>
+  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198009381-a7ed609c-619c-44a3-a884-3b2873f8b300.png">
+  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198009609-a68f9d4b-1f01-48ff-b7ba-c4a29f5d28c2.png">
+</div>
 
 <h3>Gameplay</h3>
 <div align="center">
