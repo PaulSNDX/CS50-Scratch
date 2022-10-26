@@ -4,7 +4,7 @@
 <hr>
 
 <div align="center">
-  <img src="kisspng-scratch-computer-science-logo-computer-programming-5ada13897ac561 1473472315242412895029](https://user-images.githubusercontent.com/65392617/198060731-48ea7e83-1224-4c36-9b8c-8d1fae997050.png">
+  <img src="https://user-images.githubusercontent.com/65392617/198061236-caf7f760-6b5a-449c-84d8-6eb97866cfb1.png">
 
   <div margin-top="40px">
     <h1>Introduction & Rules</h1>
