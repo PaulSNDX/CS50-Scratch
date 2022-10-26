@@ -2,6 +2,13 @@
 
 <h2>My first university project. It was developed approximately at the end of September 2021. It is also the first Harvard university CS50 course task.</h1>
 
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: 50%;
+}
+
 <h3>Introduction</h3>
 <img src="https://user-images.githubusercontent.com/65392617/198009211-6b391b1f-b1af-4797-9075-5f0ef67ce6ba.png">
 
@@ -21,4 +28,5 @@
 
 <h3>Game endings</h3>
 <img src="https://user-images.githubusercontent.com/65392617/198010385-0aae608f-1cb6-4974-afef-92270124c32d.png">
+<img src="https://user-images.githubusercontent.com/65392617/198026671-d408f807-7e1f-4a5a-b533-2b12b81c32e3.png">
 
