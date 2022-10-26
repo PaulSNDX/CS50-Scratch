@@ -10,17 +10,17 @@
 
 <h3>Game modes</h3>
 <div>
-  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198009381-a7ed609c-619c-44a3-a884-3b2873f8b300.png">
-  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198009609-a68f9d4b-1f01-48ff-b7ba-c4a29f5d28c2.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/65392617/198009381-a7ed609c-619c-44a3-a884-3b2873f8b300.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/65392617/198009609-a68f9d4b-1f01-48ff-b7ba-c4a29f5d28c2.png">
 </div>
 
 <h3>Gameplay</h3>
 <div align="center">
-  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198010726-b7ed7b2b-09bc-431f-8085-0f4afa8746f0.png">
-  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198009752-61ca985d-68b8-4553-b6b6-5922e970a12d.png">
-  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198010299-4b49455c-907b-43ba-aef8-83a5bdc96aff.png">
-  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198010592-29fa3afb-2561-444d-a573-241d8563f4b8.png">
-  <img width="49%" src="https://user-images.githubusercontent.com/65392617/198011626-36b2d11e-ca5c-42b7-a27f-3c68d0813e90.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/65392617/198010726-b7ed7b2b-09bc-431f-8085-0f4afa8746f0.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/65392617/198009752-61ca985d-68b8-4553-b6b6-5922e970a12d.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/65392617/198010299-4b49455c-907b-43ba-aef8-83a5bdc96aff.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/65392617/198010592-29fa3afb-2561-444d-a573-241d8563f4b8.png">
+  <img width="50%" src="https://user-images.githubusercontent.com/65392617/198011626-36b2d11e-ca5c-42b7-a27f-3c68d0813e90.png">
 </div>
 
 <h3>Game endings</h3>
