@@ -65,5 +65,5 @@ Use the left mouse button or "1", "2", and "3" keys to answer the quiz.
 
 <h3 align="center">RECORD GAMEPLAY</h3>
 <video width="95%">
-  <source src="[your_video's_name.mp4](https://user-images.githubusercontent.com/65392617/198096550-213c4f60-1ffe-4a2a-b078-3f51a5181eed.mp4)" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/65392617/198096550-213c4f60-1ffe-4a2a-b078-3f51a5181eed.mp4" type="video/mp4">
 </video>
