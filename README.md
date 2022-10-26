@@ -64,8 +64,6 @@ Use the left mouse button or "1", "2", and "3" keys to answer the quiz.
 </div>
 
 <h3 align="center">RECORD GAMEPLAY</h3>
-<video width="320" height="240" controls>
-  <source src="https://user-images.githubusercontent.com/65392617/198110185-2e04ff9b-86fb-4c73-acce-c6c23488d52c.mp4" type="video/mp4">
-</video>
+
 https://user-images.githubusercontent.com/65392617/198110185-2e04ff9b-86fb-4c73-acce-c6c23488d52c.mp4
 
