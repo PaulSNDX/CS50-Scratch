@@ -7,14 +7,14 @@
 </div>
 
 ### Structure
-- <a href="https://github.com/PaulSNDX/CS50-Scratch#about-game">About game</a>
-- <a href="https://github.com/PaulSNDX/CS50-Scratch#controls">Usage (controls)</a>
-- <a href="https://github.com/PaulSNDX/CS50-Scratch#screenshots">Screenshots</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#introduction--rules">Introduction & rules</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#game-modes"> Game modes</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#gameplay">Gameplay</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#game-endings">game endings</a>
-- <a href="">#### Record gameplay</a>
+- <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#about-game">About game</a>
+- <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#controls">Usage (controls)</a>
+- <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#screenshots">Screenshots</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#introduction--rules">Introduction & rules</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#game-modes"> Game modes</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#gameplay">Gameplay</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#game-endings">game endings</a>
+- <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#">Record gameplay</a>
 
 <h2 align="center">ABOUT GAME</h2>
 
