@@ -19,9 +19,10 @@
   <h1>Gameplay</h1>
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198010726-b7ed7b2b-09bc-431f-8085-0f4afa8746f0.png">
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198009752-61ca985d-68b8-4553-b6b6-5922e970a12d.png">
-  <img width="45%" src="https://user-images.githubusercontent.com/65392617/198010299-4b49455c-907b-43ba-aef8-83a5bdc96aff.png">
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198010592-29fa3afb-2561-444d-a573-241d8563f4b8.png">
+  <img width="45%" src="https://user-images.githubusercontent.com/65392617/198055086-f09effd8-614f-4fbe-9633-d6c0a88918bd.png">
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198011626-36b2d11e-ca5c-42b7-a27f-3c68d0813e90.png">
+  <img width="45%" src="https://user-images.githubusercontent.com/65392617/198010299-4b49455c-907b-43ba-aef8-83a5bdc96aff.png">
 </div>
 
 <div align="center" margin-top="30px">
