@@ -7,13 +7,13 @@
 </div>
 
 ### Structure
-- <a href="https://github.com/PaulSNDX/CS50-Scratch#about-game-1">#### About game</a>
+- <a href="https://github.com/PaulSNDX/CS50-Scratch#about-game">#### About game</a>
 - <a href="https://github.com/PaulSNDX/CS50-Scratch#controls">#### Usage (controls)</a>
-- <a href="https://github.com/PaulSNDX/CS50-Scratch#screenshots-1">#### Screenshots</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#introduction--rules-1">#### Introduction & rules</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#game-modes-1">#### Game modes</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#gameplay-1">#### Gameplay</a>
-  - <a href="https://github.com/PaulSNDX/CS50-Scratch#game-endings-1">#### game endings</a>
+- <a href="https://github.com/PaulSNDX/CS50-Scratch#screenshots">#### Screenshots</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch#introduction--rules">#### Introduction & rules</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch#game-modes">#### Game modes</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch#gameplay">#### Gameplay</a>
+  - <a href="https://github.com/PaulSNDX/CS50-Scratch#game-endings">#### game endings</a>
 - <a href="">#### Record gameplay</a>
 
 <h2 align="center">ABOUT GAME</h2>
