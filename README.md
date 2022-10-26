@@ -14,7 +14,7 @@
   - <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#game-modes"> Game modes</a>
   - <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#gameplay">Gameplay</a>
   - <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#game-endings">game endings</a>
-- <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#">Record gameplay</a>
+- <a href="https://github.com/PaulSNDX/CS50-Scratch/blob/main/README.md#record-gameplay">Record gameplay</a>
 
 <h2 align="center">ABOUT GAME</h2>
 
@@ -64,6 +64,6 @@ Use the left mouse button or "1", "2", and "3" keys to answer the quiz.
 </div>
 
 <h3 align="center">RECORD GAMEPLAY</h3>
-<div align="center">
-  https://user-images.githubusercontent.com/65392617/198096550-213c4f60-1ffe-4a2a-b078-3f51a5181eed.mp4
-</div>
+<video width="95%">
+  <source src="[your_video's_name.mp4](https://user-images.githubusercontent.com/65392617/198096550-213c4f60-1ffe-4a2a-b078-3f51a5181eed.mp4)" type="video/mp4">
+</video>
