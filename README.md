@@ -4,8 +4,12 @@
 <hr>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/65392617/198061236-caf7f760-6b5a-449c-84d8-6eb97866cfb1.png">
-
+  <a href="https://scratch.mit.edu/">
+    <img src="https://user-images.githubusercontent.com/65392617/198061236-caf7f760-6b5a-449c-84d8-6eb97866cfb1.png">
+  </a>
+  
+  <h1><b>SCREENSHOTS</b></h1>
+  
   <div margin-top="40px">
     <h1>Introduction & Rules</h1>
     <img width="45%" src="https://user-images.githubusercontent.com/65392617/198009211-6b391b1f-b1af-4797-9075-5f0ef67ce6ba.png">
