@@ -6,19 +6,36 @@
   </a>
 </div>
 
-#### Structure
-- About game
-- Usage (controls)
-- Screenshots
-  - Introduction & rules
-  - Game modes
-  - Gameplay
-  - game endings
-- Record gameplay
+### Structure
+- #### About game
+- #### Usage (controls)
+- #### Screenshots
+  - #### Introduction & rules
+  - #### Game modes
+  - #### Gameplay
+  - #### game endings
+- #### Record gameplay
 
-<h2 text-align="justify">My first university project. It was developed approximately at the end of September 2021. It is also the first Harvard university CS50 course task.</h1>
 
-<h2 align="center">SCREENSHOTS</h1>
+<h2 align="center">About game</h2>
+
+
+This project is educational. It helps in learning and checking your knowledge about flags.
+
+You may count 197 country flags (information for 2021) while playing.
+There are seven levels: Africa, Asia, Australia, Europe, North America, and South America, all countries.
+
+One day, people will create a union of all countries. There will be no wars, no ecological disasters, no arguments and only Wikipedia, archive books, my game, and some other sources will remind people about that time.
+
+
+<h2 align="center">Controls</h2>
+
+
+Use the left mouse button or "1", "2", and "3" keys to answer the quiz.
+
+
+<h2 align="center">SCREENSHOTS</h2>
+
 
 <h3 align="center">Introduction & Rules</h3>
 <div padding-top="40px" align="center">
@@ -26,11 +43,13 @@
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198009303-3a8c4fbe-b648-4044-8604-3038846f52cc.png">
 </div>
 
+
 <h3 align="center">Game modes</h3>
 <div padding-top="40px" align="center">
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198009381-a7ed609c-619c-44a3-a884-3b2873f8b300.png">
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198009609-a68f9d4b-1f01-48ff-b7ba-c4a29f5d28c2.png">
 </div>
+
 
 <h3 align="center">Gameplay</h3>
 <div padding-top="40px" align="center">
@@ -41,6 +60,7 @@
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198011626-36b2d11e-ca5c-42b7-a27f-3c68d0813e90.png">
   <img width="45%" src="https://user-images.githubusercontent.com/65392617/198010299-4b49455c-907b-43ba-aef8-83a5bdc96aff.png">
 </div>
+
 
 <h3 align="center">Game endings</h3>
 <div padding-top="40px" align="center">
