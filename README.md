@@ -67,3 +67,5 @@ Use the left mouse button or "1", "2", and "3" keys to answer the quiz.
 
 https://user-images.githubusercontent.com/65392617/198110185-2e04ff9b-86fb-4c73-acce-c6c23488d52c.mp4
 
+<h3 align="center">Presentation</h3>
+[Flags of the world.pptx.pdf](https://github.com/PaulSNDX/CS50-Scratch/files/10329466/Flags.of.the.world.pptx.pdf)
